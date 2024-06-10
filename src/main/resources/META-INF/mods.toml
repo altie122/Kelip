@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="MIT License"
+
+[[mods]]
+modId="altie122_kelip"
+version="1.0.0.1"
+displayName="Kelip"
+displayURL="https://mods.altie122.kelip"
+logoFile="logo.png"
+credits="Made by Altie122"
+authors="Altie122"
+description="A ton of random but useful changes and items"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.altie122_kelip]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.4.223,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.altie122_kelip]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.20.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

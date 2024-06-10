@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "altie122_kelip:item/burning_coal_axe"
+  }
+}
